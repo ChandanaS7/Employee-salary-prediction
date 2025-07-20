@@ -1,0 +1,7 @@
+System Requirements:
+
+Component	Specification
+OS	Windows / macOS / Linux
+RAM	Minimum 4GB (8GB recommended)
+Python	3.8 or higher
+Libraries	pandas, numpy, sklearn, seaborn, matplotlib, joblib
